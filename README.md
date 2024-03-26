@@ -1,22 +1,33 @@
 ## Settings
 
 [√] Hide placeholders of blocked elements
+
 [×] Show the number of blocked requests on the icon
+
 [√] Make use of context menu where appropriate 
+
 [√] Prevent WebRTC from leaking IP addresses (Only available on Firefox)
+
 [×] Enable cloud storage support 
 
 
 #### Privacy 
+
 [√] Disable pre-fetching (to prevent any connection for blocked network requests)
+
 [√] Disable hyperlink auditing
+
 [√] Block CSP reports
 
 
 #### Default Behaviour 
+
 [×] Disable cosmetic filtering
+
 [×] Block media elements larger than 50 kb
+
 [√] Block remote fonts 
+
 [×] Disable JavaScript 
 
 
