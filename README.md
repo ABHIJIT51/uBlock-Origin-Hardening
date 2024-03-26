@@ -1,3 +1,9 @@
+# Quick Installation
+Download the backup file that i provided in releases and restore it from uBlock Origin.
+
+
+
+# Manual
 ## Settings
 
 [√] Hide placeholders of blocked elements
@@ -34,7 +40,7 @@
 ## Filterlists 
 [√] Auto-update filter lists
 
-[√] Suspend network activity until all filter lists are loaded
+[×] Suspend network activity until all filter lists are loaded
 
 [√] Parse and enforce cosmetic filters 
 
