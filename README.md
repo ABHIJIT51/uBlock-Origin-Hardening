@@ -6,8 +6,6 @@
 
 [√] Make use of context menu where appropriate 
 
-[√] Prevent WebRTC from leaking IP addresses (Only available on Firefox)
-
 [×] Enable cloud storage support 
 
 
@@ -15,7 +13,9 @@
 
 [√] Disable pre-fetching (to prevent any connection for blocked network requests)
 
-[√] Disable hyperlink auditing
+[√] Disable hyperlink auditing 
+
+[√] Prevent WebRTC from leaking IP addresses (Only available on Firefox)
 
 [√] Block CSP reports
 
